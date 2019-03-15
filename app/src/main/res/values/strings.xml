@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ten Layouts Exercice</string>
+    <string name="go_to_2">Go to 2</string>
+    <string name="go_to_3">Go To 3</string>
+    <string name="go_to_4">Go To 4</string>
+    <string name="go_to_5">Go To 5</string>
+    <string name="go_to_6">Go To 6</string>
+    <string name="go_to_7">Go To 7</string>
+    <string name="go_to_8">Go To 8</string>
+    <string name="go_to_9">Go To 9</string>
+    <string name="go_to_10">Go TO 10</string>
+    <string name="end">END</string>
+</resources>

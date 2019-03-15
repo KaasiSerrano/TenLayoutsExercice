@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.Bridge">
+        <item name="colorButtonNormal">@color/Color_9</item>
+        <item name="buttonStyle">@color/Color_9</item>
+
+        style="@style/Widget.AppCompat.Button"
+        style="@style/Widget.AppCompat.Button.Colored"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        style="@style/Widget.AppCompat.Button.Borderless.Colored"
+        <!-- Customize your theme here. -->
+    </style>
+
+</resources>
